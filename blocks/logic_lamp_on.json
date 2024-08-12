@@ -1,0 +1,8 @@
+{
+    "hidden": true,
+    "shadeless": true,
+    "texture": "logic_lamp_on",
+    "emission": [15, 14, 13],
+    "material": "base:glass",
+    "script-name": "logic_lamp"
+}

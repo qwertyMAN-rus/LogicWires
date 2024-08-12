@@ -1,0 +1,28 @@
+{
+    "hidden": true,
+    "grounded": true,
+    "obstacle": false,
+    "light-passing": true,
+    "sky-light-passing": true,
+    "rotation": "none",
+    "model": "custom",
+    "model-primitives": {
+    "aabbs": [
+        [0.4, 0, 0, 0.2, 0.2, 1,
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_hole",
+        "logic_wire_hole"],
+        [0, 0, 0.4, 1, 0.2, 0.2,
+        "logic_wire_hole",
+        "logic_wire_hole",
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_side"]
+    ]},
+    "material": "base:glass",
+    "script-name": "logic_wires"
+}

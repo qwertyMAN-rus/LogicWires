@@ -1,0 +1,13 @@
+{
+    "hidden": true,
+    "grounded": true,
+    "obstacle": false,
+    "light-passing": true,
+    "sky-light-passing": true,
+    "rotation": "none",
+    "model": "aabb",
+    "texture": "logic_wire_hole",
+    "hitbox": [0.4, 0, 0.4, 0.2, 0.2, 0.2],
+    "material": "base:glass",
+    "script-name": "logic_wires"
+}

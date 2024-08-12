@@ -1,0 +1,19 @@
+{
+    "grounded": true,
+    "obstacle": false,
+    "light-passing": true,
+    "sky-light-passing": true,
+    "rotation": "pane",
+    "model": "aabb",
+    "hitbox": [0.4, 0, 0, 0.2, 0.2, 1],
+    "texture-faces": [
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_side",
+        "logic_wire_hole",
+        "logic_wire_hole"
+    ],
+    "material": "base:glass",
+    "script-name": "logic_wires"
+}

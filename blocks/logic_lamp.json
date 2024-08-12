@@ -1,0 +1,5 @@
+{
+    "texture": "logic_lamp",
+    "material": "base:glass",
+    "script-name": "logic_lamp"
+}

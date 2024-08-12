@@ -1,0 +1,13 @@
+{
+    "script-name": "logic_button",
+    "hidden": true,
+    "texture-faces": [
+        "logic_button_on_side",
+        "logic_button_on_side",
+        "logic_button_on_top",
+        "logic_button_on_top",
+        "logic_button_on_side",
+        "logic_button_on_side"
+    ],
+    "material": "base:glass"
+}

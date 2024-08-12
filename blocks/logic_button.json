@@ -1,0 +1,12 @@
+{
+    "script-name": "logic_button",
+    "texture-faces": [
+        "logic_button_side",
+        "logic_button_side",
+        "logic_button_top",
+        "logic_button_top",
+        "logic_button_side",
+        "logic_button_side"
+    ],
+    "material": "base:glass"
+}
